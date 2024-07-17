@@ -1,0 +1,307 @@
+
+@charset "utf-8";
+/* CSS Document */
+*
+{
+    padding: 0;
+    margin: 0;
+}
+.DivClear
+{
+    clear: both;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.DivClearNone
+{
+    clear: both;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+html, body
+{
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+}
+.Layout_container
+{
+    width: 995px;
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -147px;
+    background-color: #D7FFF5;    
+}
+
+.Layout_Banner
+{
+    width: 100%;
+    height: 121px;
+    margin: 0px;
+    background-image: url(Images/BG_banner.jpg);
+    background-repeat:no-repeat;
+    background-color: #D7FFF5;
+}
+.Layout_MainContents
+{
+    width:100%;
+}
+.Layout_Push, .Layout_Footer
+{
+    width: 100%;
+    height: 50px;
+    width: 995px;
+    margin: 0 auto;
+}
+
+
+/*------------------------------*/
+A {
+COLOR: #565656;TEXT-DECORATION: none
+}
+A:active {
+COLOR: #565656;TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff9900; TEXT-DECORATION: none
+}
+A:visited {
+	
+}
+
+.TopControl{
+    float:right;
+    padding-top: 16px;
+    padding-right: 30px;
+    padding-bottom: 16px;
+    text-align: right;
+}
+.Textbox{
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    background-color: #e4ebea;
+}
+.LoginText{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10.5pt;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #0c2a6d;    
+}
+.TopControlText{
+    font-size: 10pt;
+    color: #000;
+    letter-spacing: 0.05em;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 8px;
+    margin-bottom: 10px;
+}
+
+
+.PersonalAddress{
+    height:237px;
+    width: 100%;
+    background-color: #D7FFF5;    
+}
+.Personal_RightBG{
+    height:237px;
+    width:163px;
+    background-image: url(Images/BG_PersonalRight.gif);
+    background-repeat: no-repeat;
+    float:right;
+}
+.Personal_HinhcanhanKhung{
+    height: 237px;
+    width: 190px;
+    text-align: center;
+    vertical-align: middle;
+    float:right;
+}
+.Personal_Hinhcanhan{
+    height: 237px;
+    width: 190px;
+}
+.Personal_Location
+{
+    width: 626px;
+    height: 207px; /*237-44*/
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #403b33;
+    text-align: center;
+    padding-top: 30px;
+}
+.Personal_FullName
+{
+    font-size: 15pt;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    letter-spacing: 80%;
+}
+.Personal_Position
+{
+    font-size: 12pt;
+    font-family: Calibri,Arial, Helvetica, sans-serif;
+    letter-spacing: 0.0em;
+}
+.Personal_Phone
+{
+    font-size: 10pt;
+    font-family: Calibri,Arial, Helvetica, sans-serif;
+    letter-spacing: 0.0em;
+}
+.Personal_Website{
+    font-family: Calibri,Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #565656;    
+}
+/*------------------------------*/
+.MainContain{
+    clear:both;
+    width: 100%;
+    width: 995px;
+    background-attachment: fixed;
+    background-image: url(Images/BG_main.gif);
+    background-repeat: repeat-x;
+    background-color: #FFF;
+    background-position: right top;
+}
+.MainContain_Top{
+    width:100%;
+}
+
+.MainContain_RightTop{
+    float:right;
+    width:368px;
+    height:200px;
+}
+.MainContain_ButtonSpace{
+    clear:both;
+    height:45px;
+    width:100%;
+    text-align: left;
+    vertical-align: middle;
+    font-family: Calibri,Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #000;
+    font-weight: bold;
+    letter-spacing: 0.05em;    
+}
+.Button_Toolbar{
+    float:left;
+    width:35px;
+    height:36px;
+}
+.Button_Title{
+    float:left;
+    text-align:left;
+    vertical-align:middle;
+    padding-top: 10px;
+    padding-left: 5px;
+}
+
+
+
+.MainContain_LeftTop{
+    float:left;
+    padding-left: 80px;    
+    width:520px;
+}
+.MainContain_Center{
+    clear:both;
+    padding-left: 80px;    
+}
+
+.InfoGroup{
+    text-transform: uppercase;
+    color: #d7783c;
+    font-family: Calibri,Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    padding-top: 25px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.InfoSubGroup{
+    color: #558ED5;
+    font-family: Calibri,Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding-top: 10px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.TextInList{
+    font-family: Calibri,Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-align: justify;
+    color: #000000;
+}
+li{
+    margin-bottom: 5px;    
+}
+
+ol li{
+    font-family: Calibri,Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-style: italic;
+    color: #565656;
+    font-weight: bold;
+}
+
+.Paper{
+    font-family: Calibri,Arial, Helvetica, sans-serif;
+    color: #565656;
+    font-size: 11px;
+    margin-bottom: 10px;
+}
+.PaperName{
+    font-weight: bold;
+}
+.PaperAuthors{
+    
+}
+.PaperOthers{
+}
+
+/*-----------copy right---------------*/
+.divCopyright{
+    height:147px;
+    font-size:11px;
+    color: #8c8c8c;
+    text-align: center;
+    padding-right: 10px;
+    background-color: #D7FFF5;    
+    letter-spacing: 0.1em;
+}
+
+
+a.link:active, a.link:visited, a.link:link
+{
+    text-decoration: none;
+}
+a.link:hover
+{
+    text-decoration: none;
+    color: #FF6600;
+}
+
+a.linkIcon:active, a.linkIcon:visited, a.linkIcon:link
+{
+    text-decoration: none;
+    color: #000;    
+}
+a.linkIcon:hover
+{
+    text-decoration: none;
+    color: #FF6600;
+} 

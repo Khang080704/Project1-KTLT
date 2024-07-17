@@ -1,0 +1,7 @@
+﻿"MS-903","Doraemon", "Kĩ thuật hạt nhân", "2012", "03/09/2012","Doraemon.jpg", "Tốt bụng; đáng yêu", "Bánh rán"
+"1212123", "Nguyễn Văn A", "Công nghệ thông tin", "2012" ,  "20/01/1994", "1212123.jpg", "Dễ thương", " Âm nhạc: Kpop, Vpop"; "Điện ảnh: Harry Potter"
+"1212124", "Trần Văn B", "Công nghệ thông tin", "2012", "10/04/1994", "1212124.jpg", "Tôi là người rất thân thiện"
+"12345678", "Nobita", "Môi trường", "2012", "07/08/1996","Nobita.jpg" ,"Tôi là người tốt bụng", "Đọc truyện tranh; xem TV; chơi đan dây; ngủ ngày"
+"998877", "Luffy", "Hàng Hải", "2006", "01/01/1999","Luffy.jpg" ,"Tôi là người dũng cảm", "Phiêu lưu; chiến đấu"
+"11223344", "Naruto", "Học viện ninja", "2006","25/01/1999", "Naruto.jpg","Tôi là người tốt bụng","Gây sự chú ý; bảo vệ bạn bè"
+"19990502", "Son Goku", "Thể chất", "1999", "18/04/1990","Goku.jpg" ,"Tôi là người mạnh mẽ","Luyện tập; Chiến đấu"
